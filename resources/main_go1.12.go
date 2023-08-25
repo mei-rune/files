@@ -5,7 +5,7 @@ package resources
 import (
 	"io/fs"
 
-	"github.com/swaggo/files/resources/oldversion"
+	"github.com/swaggo/files/v2/resources/oldversion"
 )
 
 func GetStaticDir() (fs.FS, error) {

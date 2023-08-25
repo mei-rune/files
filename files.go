@@ -1,7 +1,7 @@
 package swaggerFiles
 
 import (
-	"github.com/swaggo/files/resources"
+	"github.com/swaggo/files/v2/resources"
 )
 
 
