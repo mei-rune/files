@@ -6,4 +6,4 @@ import (
 
 
 // FS holds embedded swagger ui files
-var FS, _ = resources.GetStaticDir()
+var FS, Err = resources.GetStaticDir()
